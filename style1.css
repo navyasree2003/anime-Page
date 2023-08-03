@@ -1,0 +1,11 @@
+body{
+    background-image:url('bts.jpg');
+    height: 800px;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+h1{
+    text-align: center;
+    color:brown;
+}
